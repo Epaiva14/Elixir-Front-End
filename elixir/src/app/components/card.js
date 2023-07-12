@@ -17,7 +17,7 @@ export default function Card() {
     return (
         <div style={style}>
 
-            <div classNameName="card">
+            <div className="card">
                 <div className="card-content">
                     <div className="media">
                         <div className="media-content">
@@ -27,7 +27,7 @@ export default function Card() {
                     </div>
 
                     <div className="content">
-                      And I exist on this page as a placeholder
+                        And I exist on this page as a placeholder
                     </div>
                 </div>
             </div>
